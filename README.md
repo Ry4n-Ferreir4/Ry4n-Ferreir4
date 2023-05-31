@@ -1,9 +1,9 @@
 
 # 👋 Hello! Welcome to my Github profile.
 # My name is Ryan Mendes !
-
+- 💻 Programador Junior em Python
 - 🔭 Atualmente estou procurando trabalhos na area da programação
-- 🌱 Atualmente estou aprendendo C, Python, HTML5, CSS3, JS6
+- 🌱 Atualmente estou aprendendo C, HTML5, CSS3, JS6 e MySql
 - 📫 Como entrar em contato comigo:
 <div>
 <a href="https://instagram.com/r_.mendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
