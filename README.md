@@ -16,13 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="40" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 
 
-<div>
+<div align="center">
 <a href="https://github.com/Ry4n-Ferreir4">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4"/>
-</div>
- 
-  
-![Snake animation](https://github.com/Ry4n-Ferreir4/Ry4n-Ferreir4/blob/output/github-contribution-grid-snake.svg)
-
+</div></td><td valign="top" width="33%">
  
