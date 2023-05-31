@@ -17,7 +17,12 @@
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Ry4n-Ferreir4">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4"/>
 </div>
+ 
+  
+![Snake animation](https://github.com/Ry4n-Ferreir4/Ry4n-Ferreir4/blob/output/github-contribution-grid-snake.svg)
+
+ 
