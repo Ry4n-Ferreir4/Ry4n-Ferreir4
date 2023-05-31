@@ -12,6 +12,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4)](https://github.com/Ry4n-Ferreir4/) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4)](https://github.com/Ry4n-Ferreir4/) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4)](https://github.com/Ry4n-Ferreir4/)
           
