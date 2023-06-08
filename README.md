@@ -19,6 +19,8 @@
 
 <div align="center">
 <a href="https://github.com/Ry4n-Ferreir4">
-<img height="220px" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4" />
+<img height="220px" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4&theme=tokyonight" />
+ 
+<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4&theme=tokyonight"/>
 </div></td><td valign="top" width="40%">
  
