@@ -19,7 +19,7 @@
 
 <div align="center">
 <a href="https://github.com/Ry4n-Ferreir4">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4"/>
+<img height="181em" src="https://github-readme-stats.vercel.app/api?username=Ry4n-Ferreir4" />
+<img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4n-Ferreir4"/>
 </div></td><td valign="top" width="33%">
  
